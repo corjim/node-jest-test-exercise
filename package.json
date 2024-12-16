@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Generating realistic machine-made text from an original source text.",
+  "main": "furtherStudy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corjim/node-jest-test-exercise.git"
+  },
+  "author": "corjim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corjim/node-jest-test-exercise/issues"
+  },
+  "homepage": "https://github.com/corjim/node-jest-test-exercise#readme"
+}
